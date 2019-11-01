@@ -1,4 +1,4 @@
-# XSS-Demo
+# XSS-Attack-Demo
 PHP
 
 Repository contains:
